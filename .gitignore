@@ -1,0 +1,22 @@
+## BushWhacker
+*.exe
+*.zip
+BushWhacker/bin/
+BushWhacker/bin//obj/
+BushWhacker/bin//Properties/
+BushWhacker/obj/
+*.editorconfig
+
+## visual studio
+.vs
+.idea
+slnx.sqlite
+slnx-journal.sqlite
+
+## nodejs
+node_modules
+node.exe
+package-lock.json
+
+## windows
+desktop.ini
